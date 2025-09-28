@@ -46,7 +46,7 @@
 ; The function should count the number of instances of the value in
 ; the list. You might want to try to do this tail recursively or not
 ; your choice.
-; Ex: 2 '(1 2 3 4 2 2) -> 2
+; Ex: 2 '(1 2 3 4 2 2) -> 3
 (define count-occurences
   (lambda (val lst)
     'nyi))
